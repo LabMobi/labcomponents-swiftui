@@ -1,6 +1,6 @@
 ![Mobi Lab](Docs/Assets/mobilab-header-logo.png)
 
-# Mobi Lab Components for Compose
+# Mobi Lab Components for SwiftUI
 
 Mobi Lab Components for SwiftUI (`LabComponents`) help developers execute our internal design system's components on the iOS platform.
 
